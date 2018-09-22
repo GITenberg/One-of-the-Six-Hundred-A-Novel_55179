@@ -1,6 +1,9 @@
 _repo: One-of-the-Six-Hundred-A-Novel_55179
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: '1 of the 600: A Novel'
+covers:
+- cover_type: archival
+  image_path: 55179-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Grant, James
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '8949'
     url: http://www.gutenberg.org/2009/agents/8949
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55179#One-of-the-Six-Hundred-A-Novel
 gutenberg_issued: '2017-07-23'
 gutenberg_type: Text
 identifiers:
